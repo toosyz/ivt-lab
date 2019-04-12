@@ -4,6 +4,8 @@ This is a sample application for the [Integration and Verification Techniques](h
 
 The application is simplified and deliberately contains bugs.
 
+This is a change from branch-A.
+
 ## Getting started
 sdasdasd change
 - The project is implemented in Java 8.
