@@ -5,7 +5,7 @@ This is a sample application for the [Integration and Verification Techniques](h
 The application is simplified and deliberately contains bugs.
 
 ## Getting started
-
+sdasdasd change
 - The project is implemented in Java 8.
 - The project can be built using [Maven](https://maven.apache.org/).
 - [JUnit](http://junit.org/junit4/) is used for tests, and [Mockito](http://site.mockito.org/) for isolating dependencies.
